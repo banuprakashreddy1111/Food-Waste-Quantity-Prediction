@@ -1,0 +1,2 @@
+model,training_samples,testing_samples,MAE,RMSE,R2
+Linear Regression,2000,500,0.7968751447008827,0.9959615373237154,0.8660792509994808
